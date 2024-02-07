@@ -45,6 +45,9 @@
 
 ---
 
+<div id="cert" align="center">
+<img src="https://github.com/yulia-sergeevaa/yulia-sergeevaa/assets/153804454/cd11e082-0135-437b-8956-8b5a02b38213"  title="Certificate" alt="Certificate"  width="600" height="420"/>&nbsp;
+</div>
 
 
 
